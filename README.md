@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**cavidk/cavidk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2015 - 2019: BSc in Computer Engineering, LDU
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working as a freelance;
+- 🌱 I’m currently learning Flutter && Dart
+- 🤔 I’m looking for help with find Junior Mobile Developer work;
+- 💬 Ask me about questions JavaScript and Java_
+- 📫 How to reach me: 
+   -Facebook: www.facebook.com/cavid.kazimzade442;
+   -Linkedin: www.linkedin.com/in/cavid-kazimzada-8a9b96185/
+
+- 😄 Pronouns: him/who
+- ⚡ Fun fact: I m looking for someone to challenge with me at table tennis))
 -->
