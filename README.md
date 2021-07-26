@@ -18,3 +18,6 @@
 - ⚡ Fun fact: I m looking for someone to challenge with me at table tennis))
 -->
 
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cavidk&show_icons=true&locale=en&layout=compact/>
+
+
