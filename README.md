@@ -18,9 +18,14 @@
 - ⚡ Fun fact: I m looking for someone to challenge with me at table tennis))
 -->
 
+---Overview---
+
 <a href="https://github.com/cavidk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cavidk&show_icons=true&theme=buefy"/>
-</a><br>
+</a>
+
+
+
 <a href = "https://github.com/cavidk">
    <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cavidk&layout=compact&theme=buefy"/>
 </a>
