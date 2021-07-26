@@ -17,3 +17,4 @@
 - 😄 Pronouns: him/who
 - ⚡ Fun fact: I m looking for someone to challenge with me at table tennis))
 -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
