@@ -1,4 +1,4 @@
-# Hello, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello there, i am Javid Kazimzada! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 2015 - 2019: BSc in Computer Engineering, LDU
@@ -17,17 +17,17 @@
 - 😄 Pronouns: him/who
 - ⚡ Fun fact: I m looking for someone to challenge with me at table tennis))
 -->
+-
 
----Overview---
 
 <a href="https://github.com/cavidk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cavidk&show_icons=true&theme=buefy"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cavidk&show_icons=true&theme=buefy"/>
+</a>  <br><br>
+     
+<a href = "https://github.com/cavidk"> 
+   <img width = "375em" height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cavidk&layout=compact&theme=buefy"/>
 </a>
 
 
-
-<a href = "https://github.com/cavidk">
-   <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cavidk&layout=compact&theme=buefy"/>
-</a>
 
 
