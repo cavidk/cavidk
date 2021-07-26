@@ -20,9 +20,9 @@
 
 <a href="https://github.com/cavidk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cavidk&show_icons=true&theme=buefy"/>
+</a><br>
+<a href = "https://github.com/cavidk">
+   <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cavidk&layout=compact&theme=buefy"/>
 </a>
 
-<a href = "https://github.com/cavidk">
-   <img height = "180em" src = https://github-readme-stats.vercel.app/api/top-langs/?username=cavidk&layout=compact)/>
-</a>
 
