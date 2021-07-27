@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working as a freelance;
-- 🌱 I’m currently learning Flutter && Dart
+- 🌱 I’m currently learning Kotlin |
 - 🤔 I’m looking for help with find Junior Mobile Developer work;
 - 💬 Ask me about questions JavaScript and Java_
 - 📫 How to reach me:
