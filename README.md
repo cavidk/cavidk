@@ -1,39 +1,40 @@
+
+
 # Hello there, i am Javid Kazimzada! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="right"><br></br>
 
-2015 - 2019: BSc in Computer Engineering, LDU
 
+ <p> ⥽ 2015 - 2019: BSc in Computer Engineering, LDU ⥼ 
 
 - 🔭 I’m currently working as a freelance;
-- 🌱 I’m currently learning Kotlin |
+- 🌱 I’m currently learning Kotlin
 - 🤔 I’m looking for help with find Junior Mobile Developer work;
-- 💬 Ask me about questions JavaScript and Java_
-- 📫 How to reach me:
+- 💬 Ask me about questions movies?)
+- 😄 Pronouns: him/who;
+- ⚡ Fun fact: I m looking for someone to challenge with me at table tennis)) <br>
  
-   -Facebook: www.facebook.com/cavid.kazimzade442;
-   
-   -Linkedin: www.linkedin.com/in/cavid-kazimzada-8a9b96185/
-   
-   -HackerRank (Hacko Transaction) : https://www.hackerrank.com/cavid_kz/hackos 
-    
+<h3 align = "center"><li>📫 How to reach me:</li></h3> 
+<p align = "center">
+<a href="https://www.linkedin.com/in/cavid-kazimzada-8a9b96185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cavid kazimzada" height="25" width="35" /></a>
+<a href="https://www.facebook.com/cavid.kazimzade442/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cavid kazimzada" height="25" width="35" /></a>
+<a href="https://www.instagram.com/https://www.instagram.com/cavid_950/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cavid_950" height="25" width="35" /></a>
+<a href="https://medium.com/me/stories/public" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cavidk" height="25" width="35" /></a>
+<a href="https://www.hackerrank.com/cavid_kz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cavid kazimzada" height="25" width="35" /></a>
+</p>
 
-- 😄 Pronouns: him/who
-- ⚡ Fun fact: I m looking for someone to challenge with me at table tennis))
--->
-<h1>                      </h1>
-
-
-<a href="https://github.com/cavidk">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cavidk&show_icons=true&theme=buefy"/>
-</a>  
-                    
+<h2 align="left"><font  color="darkyellow">ᴥ Top Used Languages  ᴥ<font/></h2>                   
 <a href = "https://github.com/cavidk"> 
-   <img width = "300em" height = "155em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cavidk&layout=compact&theme=buefy"/>
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cavidk&layout=compact&theme=buefy"/>
 </a>
-
-### Languages and Tools:
  
-<h1></h1>
+ <h2 align="left"><font  color="darkyellow"> ᴥ Here's GitHub My Stats ᴥ<font/></h2>
+<a href="https://github.com/cavidk">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=cavidk&show_icons=true&theme=buefy"/>
+</a>   
+  
+  <h2>⚙️Languages and Tools:</h2>
+ 
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   
  <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
@@ -43,8 +44,6 @@
  <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
  
  <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
- 
- 
  
  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
  
@@ -64,3 +63,17 @@
 
 
 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
