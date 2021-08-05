@@ -28,7 +28,7 @@
    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cavidk&layout=compact&theme=buefy"/>
 </a>
  
- <h2 align="left"><font  color="darkyellow"> ᴥ Here's GitHub My Stats ᴥ<font/></h2>
+ <h2 align="left"><font  color="darkyellow"> ᴥ Here's My GitHub Stats ᴥ<font/></h2>
 <a href="https://github.com/cavidk">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=cavidk&show_icons=true&theme=buefy"/>
 </a>   
