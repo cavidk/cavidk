@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="right"><br></br>
 
 
- <p> ⥽ 2015 - 2019: BSc in Computer Engineering, LDU ⥼ 
+ 
 
 - 🔭 I’m currently working as a freelance;
 - 🌱 I’m currently learning Kotlin
