@@ -1,6 +1,7 @@
 
 
-# Hello there, i am Javid Kazimzada! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, there _ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+                      I am Cavid Kazimzada. 
 
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" align="right"><br></br>
 
@@ -13,7 +14,7 @@
 - 💬 Ask me about questions movies?)
 - 😄 Pronouns: him/who;
 - ⚡ Fun fact: I m looking for someone to challenge with me at table tennis)) <br>
- 
+ <br>
 <h3 align = "center"><li>📫 How to reach me:</li></h3> 
 <p align = "center">
 <a href="https://www.linkedin.com/in/cavid-kazimzada-8a9b96185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cavid kazimzada" height="25" width="35" /></a>
