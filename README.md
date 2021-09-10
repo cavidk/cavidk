@@ -8,9 +8,8 @@
 
  
 
-- 🔭 I’m currently working as a freelance;
-- 🌱 I’m currently learning Kotlin
-- 🤔 I’m looking for help with find Junior Mobile Developer work;
+- 🌱 I’m currently learning Blockchain technologies;
+- 🤔 I’m looking for help with find how to develop my skills improve coding crypto & databases;
 - 💬 Ask me about questions movies?)
 - 😄 Pronouns: him/who;
 - ⚡ Fun fact: I m looking for someone to challenge with me at table tennis)) <br>
