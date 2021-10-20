@@ -54,7 +54,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
    <br>
-<br>
+<br><br>
 <h3 align = "center"><li>📫 How to reach me:</li></h3> 
 <p align = "center">
 <a href="https://www.linkedin.com/in/cavid-kazimzada-8a9b96185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cavid kazimzada" height="25" width="35" /></a>
