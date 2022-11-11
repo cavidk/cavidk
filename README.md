@@ -63,7 +63,7 @@
 <p align = "center">
 <a href="https://www.linkedin.com/in/cavid-kazimzada-8a9b96185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cavid kazimzada" height="25" width="35" /></a>
 <a href="https://www.facebook.com/cavid.kazimzade442/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cavid kazimzada" height="25" width="35" /></a>
-<a href="https://www.instagram.com/https://www.instagram.com/cavid_kz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cavid_950" height="25" width="35" /></a>
+<a href="https://www.instagram.com/cavid_kz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cavid_950" height="25" width="35" /></a>
 <a href="https://medium.com/me/stories/public" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cavidk" height="25" width="35" /></a>
 <a href="https://www.hackerrank.com/cavid_kz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cavid kazimzada" height="25" width="35" /></a>
 </p>
