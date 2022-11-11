@@ -19,7 +19,7 @@
 <h2 align="center"><font  color="darkyellow">ᴥ Top Used Languages  ᴥ<font/></h2>  <br> 
   <p align = "center">
 <a href = "https://github.com/cavidk"> 
-   <img height="160em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cavidk&layout=compact&theme=buefy"/>
+   <img height="190em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cavidk&layout=compact&theme=buefy"/>
 </a>
     <br>
  <h2 align="center"><font  color="darkyellow"> ᴥ Here's My GitHub Stats ᴥ<font/></h2>
