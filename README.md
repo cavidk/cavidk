@@ -28,32 +28,42 @@
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=cavidk&show_icons=true&theme=buefy"/>
 </a>  
      <br>
-      <h2 align="center"><font  color="darkyellow"> ᴥ Streak Stats ᴥ<font/></h2>
-        <p align = "center">
-     <img width="400"  src="https://github-readme-streak-stats.herokuapp.com?user=cavidk&theme=buefy&hide_border=true" />
-  
-  <h2 align= "center">⚙️Languages and Tools:</h2>
- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  
- <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+      <h2 align="center"><font color="darkyellow"> ᴥ Streak Stats ᴥ</font></h2>
 
- <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
- 
- <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/>
- 
- <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
- 
- <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
- 
- <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
- 
- <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
- 
- <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
- 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<p align="center">
+  <img width="400" src="https://streak-stats.demolab.com?user=cavidk&theme=buefy&hide_border=true"/>
+</p>
 
-   <br>
+
+<h2 align="center">⚙️Languages and Tools:</h2>
+
+<p align="center">
+  <!-- Languages -->
+  <img alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
+  <img alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" />
+  <img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+  <img alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
+  <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+
+  <!-- Frameworks / Tools -->
+  <img alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" />
+  <img alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" />
+  <img alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />
+  
+  <!-- Databases -->
+  <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
+  <img alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
+  <img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
+
+  <!-- Tools -->
+  <img alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" />
+  <img alt="VSCode" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
+  <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
+  <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
+  <img alt="GitLab" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/gitlab/gitlab.png" />
+  <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+</p>
+
 <br><br>
 <h3 align = "center"><li>📫 How to reach me:</li></h3> 
 <p align = "center">
