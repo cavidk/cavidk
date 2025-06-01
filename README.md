@@ -9,7 +9,7 @@
  
 
 - 🌱 I’m currently developing Backend technologies,<br> like Laravel & Spring Boot ;
-- 🤔 I’m looking for help with find how to develop my skills <br> as Spring boot & databases;
+- 🤔 I’m looking for help with find how to develop my skills <br> as Spring boot Portfolio Skillset & Database;
 - 💬 Ask me about questions movies?)
 - 😄 Pronouns: him/who;
 - ⚡ Fun fact: I m looking for someone to challenge with me at table tennis)) <br>
